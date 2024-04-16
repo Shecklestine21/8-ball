@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(225, 0, 255);
+}
+
+body {
+    text-align: center;
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 75px;
+    color: aliceblue;
+}
+
+#truthbtn {
+    width: 200px;
+    height: 50px;
+    color: gold;
+    background-color: black;
+}
+
+h1 , h2 {
+    color: white;
+}
+
+#balltext {
+    width: 200px;
+    height: 50px;
+    font-size: larger;
+}
